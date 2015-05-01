@@ -1,0 +1,8 @@
+#install.packages("plyr", repos = "http://cran.r-project.org")
+#install.packages("Rcpp", repos = "http://cran.r-project.org")
+#install.packages("ggplot2", repos = "http://cran.r-project.org")
+#install.packages("slam", repos = "http://cran.r-project.org")
+#install.packages("/home/ubuntu/tm_0.5-6.tar.gz", repos = NULL, type="source")
+#install.packages("RWeka", repos = "http://cran.r-project.org")
+#install.packages("rJava", repos = "http://cran.r-project.org")
+install.packages("/home/ubuntu/Snowball_0.0-9.tar.gz", repos = NULL, type="source")
